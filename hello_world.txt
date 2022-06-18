@@ -1,2 +1,3 @@
 Hello world!
-First txt file in my git.
+First txt file in my git.  
+Trying something.
