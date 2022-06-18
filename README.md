@@ -1,2 +1,2 @@
 # git_test
-The Odin Project hithub intro
+The Odin Project github intro
